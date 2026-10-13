@@ -146,7 +146,7 @@ export const AdminPortal: React.FC<AdminPortalProps> = ({
         ? { key: inputKey.trim() }
         : { email: inputEmail.trim(), password: inputKey.trim() };
 
-    const result = await loginAdminApi(credentials);
+    const result = await loginAdminApi(credentials, settings.masterKey || '419@Yamaonproperty');
     setIsLoggingIn(false);
 
     if (result.success && result.token) {

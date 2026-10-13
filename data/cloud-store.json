@@ -23,8 +23,20 @@
     "storagePreference": "cloud-and-local",
     "masterKey": "419@Yamaonproperty"
   },
-  "lastUpdated": "2026-10-13T16:00:59.470Z",
+  "lastUpdated": "2026-10-13T16:23:07.988Z",
   "sessions": [
+    {
+      "token": "yama_e12062461f9e547f3a142531d57780488b6e58b5e5b93168f8bbe9f578556d30",
+      "createdAt": "2026-10-13T16:23:07.987Z",
+      "userAgent": "curl/7.88.1",
+      "ip": "127.0.0.1"
+    },
+    {
+      "token": "yama_7e9c8feb6e3c7c5b54b6faa98399e8182a2ce6e1032b4d8a1082b6e229118ed0",
+      "createdAt": "2026-10-13T16:04:22.069Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+      "ip": "127.0.0.1"
+    },
     {
       "token": "yama_8a5328d4228b88cb69d0ad8112bba139b2f966d7c632d44ada9e04b2131de037",
       "createdAt": "2026-10-13T16:00:59.469Z",
