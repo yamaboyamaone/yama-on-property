@@ -1,0 +1,35 @@
+{
+  "properties": [],
+  "bookings": [],
+  "messages": [],
+  "profile": {
+    "name": "landlady",
+    "email": "",
+    "phone": "",
+    "bio": "",
+    "avatar": "",
+    "role": "Administrator"
+  },
+  "settings": {
+    "phone": "",
+    "email": "",
+    "currency": "NGN",
+    "address": "",
+    "footerIntro": "Thoughtful property choices. Clear guidance. A better tomorrow.",
+    "contactTitle": "Get in touch",
+    "contactText": "Contact our team for property details, viewings and enquiries.",
+    "supabaseUrl": "",
+    "supabaseAnonKey": "",
+    "storagePreference": "cloud-and-local",
+    "masterKey": "419@Yamaonproperty"
+  },
+  "lastUpdated": "2026-10-13T16:00:59.470Z",
+  "sessions": [
+    {
+      "token": "yama_8a5328d4228b88cb69d0ad8112bba139b2f966d7c632d44ada9e04b2131de037",
+      "createdAt": "2026-10-13T16:00:59.469Z",
+      "userAgent": "curl/7.88.1",
+      "ip": "127.0.0.1"
+    }
+  ]
+}
