@@ -1,0 +1,6 @@
+{
+  "name": "YAMA ON PROPERTY",
+  "description": "Real estate discovery and property management platform with verified listings, flexible payment plans, inspection booking, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

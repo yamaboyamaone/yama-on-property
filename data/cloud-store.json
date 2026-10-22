@@ -1,0 +1,35 @@
+{
+  "properties": [],
+  "bookings": [],
+  "messages": [],
+  "profile": {
+    "name": "Mustapha Yasir",
+    "email": "pennantviewdesignmedia@gmail.com",
+    "phone": "+234 803 555 0192",
+    "bio": "Lead Real Estate Consultant at YAMA ON PROPERTY. Specializing in verified residential acquisitions, luxury developments, and flexible investment advisory across Lagos, Abuja, and diaspora clients.",
+    "avatar": "/assets/aistudio/Professional_Circular_Studio_Headshot_16e4be7f.png",
+    "role": "Managing Director & Principal Consultant"
+  },
+  "settings": {
+    "phone": "+234 803 555 0192",
+    "email": "info@yamaonproperty.com",
+    "currency": "NGN",
+    "address": "Plot 14, Admiralty Way, Lekki Phase 1, Lagos, Nigeria",
+    "footerIntro": "Thoughtful property choices. Clear guidance. A better tomorrow.",
+    "contactTitle": "Get in touch",
+    "contactText": "Contact our team for property details, viewings and enquiries.",
+    "supabaseUrl": "",
+    "supabaseAnonKey": "",
+    "storagePreference": "cloud-and-local",
+    "masterKey": "419@Yamaonproperty"
+  },
+  "lastUpdated": "2026-10-21T11:20:00.000Z",
+  "sessions": [
+    {
+      "token": "yama_e12062461f9e547f3a142531d57780488b6e58b5e5b93168f8bbe9f578556d30",
+      "createdAt": "2026-10-13T16:23:07.987Z",
+      "userAgent": "curl/7.88.1",
+      "ip": "127.0.0.1"
+    }
+  ]
+}
